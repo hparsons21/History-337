@@ -26,29 +26,29 @@ tabs:
 
 # Overview of McCarthyism
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+McCarthyism refers to the political strategy employed by Senator Joseph R. McCarthy (R-Wisconsin)to publicly question the loyalty of government employees. Even though he often lacked concrete proof of subversive acts, McCarthy's accusations that indivdiuals were Communist sympathizers fed into the American fears and resulted in persecution of the accused who often lost their jobs and were blacklisted from employment. McCarthy rose to public prominence and political power based on his ability to order investigations and silence his detractors.   
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+The story about how a relatively unknown junior senator from Wisconsin came to wield such power over the American public and the U.S. political system reflects the culture of fear and suspicion based in public paranoia fed by the Second Red Scare and the political spectacle of the McCarthy Hearings. While McCarthy's political downfall would result from the televised Army-McCarthy hearings, the Supreme Court under Chief Justice Earl Warren acted to strengthen the civil liberties of indivividuals against political attacks. 
 
-## Wild Origins and Sacred Uses
+## Joseph McCarthy's Rise to Power 
 
-{% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+{% capture McCarthy_origins_text %}
+Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first three years of his term until he capitalized on American fears of Communism. On February, 1950, he gave a speech in Wheeling, West Virginia, and warned the American public about "the enemies within."  Enumerating the global expansion of Communism since the end of the Second World War, McCarthy claimed to have a list of US State Department employees who were mmebers of the Communist Party. He warned, "One thing to remember in discussing the communists in our government is that. ...We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy." [^source1]
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/McCarthy_Wheeling.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Senator McCarthy's claim in his February 9, 1950 speech that over 205 government employees were members of Communist Party made newspaper headlines and captured fears of the American public."
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\".We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy.\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+In response to McCarthy's claims, the American public and press did not ask for evidence supporting these allegations, but reacted with demands that the State Department purge those employees from government service.   
+[^source1]:McCarthy, J. "Address to the League of Women's Voters." Wheeling, West Virgina. February 9, 1950. Accessed at https://teachingamericanhistory.org/document/address-to-the-league-of-women-voters-wheeling-west-virginia-2/. 
 
 
 ## The Global Circulation
